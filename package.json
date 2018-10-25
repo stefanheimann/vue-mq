@@ -31,10 +31,10 @@
     },
     "publicPath": "/vue-mq/"
   },
-  "author": "Alexandre Geissmann <alex@la-bonaventure.com>",
+  "author": "Stefan Heimann <info@stefanheimann.info>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AlexandreBonaventure/vue-mq"
+    "url": "https://github.com/stefanheimann/vue-mq"
   },
   "license": "MIT",
   "dependencies": {
